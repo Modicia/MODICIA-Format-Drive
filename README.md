@@ -1,2 +1,2 @@
-# MODICIA Format 
-DriveMODICIA Format Drive a modern, high-performance utility for Linux.
+# MODICIA Format Drive
+MODICIA Format Drive a modern, high-performance utility for Linux.
