@@ -1,6 +1,8 @@
 # MODICIA Format Drive
+MODICIA Format Drive is a modern utility designed for high-performance bootable USB creation and disk image management. 
 
-MODICIA Format Drive is a modern utility designed for high-performance bootable USB creation and disk image management. Built for creators, power users, and system administrators on Debian and MODICIA O.S., it delivers efficient and reliable workflow controls for formatting drives and writing ISO images.
+
+Built for creators, power users, and system administrators on Debian and MODICIA O.S., it delivers efficient and reliable workflow controls for formatting drives and writing ISO images.
 
 Key Features:
 
